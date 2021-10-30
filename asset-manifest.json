@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geodata/static/css/main.1e094d51.chunk.css",
-    "main.js": "/geodata/static/js/main.8313aead.chunk.js",
-    "main.js.map": "/geodata/static/js/main.8313aead.chunk.js.map",
+    "main.js": "/geodata/static/js/main.5a268acd.chunk.js",
+    "main.js.map": "/geodata/static/js/main.5a268acd.chunk.js.map",
     "runtime-main.js": "/geodata/static/js/runtime-main.8d267637.js",
     "runtime-main.js.map": "/geodata/static/js/runtime-main.8d267637.js.map",
     "static/css/2.e411d1b4.chunk.css": "/geodata/static/css/2.e411d1b4.chunk.css",
@@ -14,14 +14,14 @@
     "static/css/2.e411d1b4.chunk.css.map": "/geodata/static/css/2.e411d1b4.chunk.css.map",
     "static/css/main.1e094d51.chunk.css.map": "/geodata/static/css/main.1e094d51.chunk.css.map",
     "static/js/2.415679e4.chunk.js.LICENSE.txt": "/geodata/static/js/2.415679e4.chunk.js.LICENSE.txt",
-    "static/media/full.e6fdfd5c.jpg": "/geodata/static/media/full.e6fdfd5c.jpg",
-    "static/media/full2.ab421817.jpg": "/geodata/static/media/full2.ab421817.jpg"
+    "static/media/India-smart-cities.05300a56.jpg": "/geodata/static/media/India-smart-cities.05300a56.jpg",
+    "static/media/full.e6fdfd5c.jpg": "/geodata/static/media/full.e6fdfd5c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d267637.js",
     "static/css/2.e411d1b4.chunk.css",
     "static/js/2.415679e4.chunk.js",
     "static/css/main.1e094d51.chunk.css",
-    "static/js/main.8313aead.chunk.js"
+    "static/js/main.5a268acd.chunk.js"
   ]
 }
